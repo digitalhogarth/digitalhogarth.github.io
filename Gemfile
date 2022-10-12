@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-# gem "github-pages"
+gem "github-pages"
 #
 # Issue: github-pages Gem doesn't work with Ruby 3!
 # This Gemfile should include the line commented out above.
