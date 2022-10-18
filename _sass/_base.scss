@@ -114,3 +114,15 @@ a {
     height: 1em;
     vertical-align: -0.1em;
 }
+
+
+/* development-refresh buttons */
+.dev-buttons {
+    position: fixed;
+    left: 15px;
+    bottom: 15px;
+    padding: 5px;
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}

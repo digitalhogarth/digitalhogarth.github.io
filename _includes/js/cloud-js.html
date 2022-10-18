@@ -1,61 +1,84 @@
-{%- assign cloud-fields = include.fields | split: ";" -%}
+{%- comment -%}
 
-{% comment %} Capture all cloud terms {% endcomment %} 
-{%- assign raw-terms = "" -%}
-{%- for c in cloud-fields -%}
-{% assign new = site.data[site.metadata] | map: c | compact | join: ";" %}
-{% assign raw-terms = raw-terms | append: ";" | append: new %}
-{%- endfor -%}
-{%- assign raw-terms = raw-terms | downcase | split: ";" -%}
+    Figure out default "Subjects" and "Locations" page cloud values as configured in in "theme.yml", 
+    and set default values for cloud.
 
-{% comment %} Clean up raw terms {% endcomment %} 
-{%- capture terms -%}{%- for t in raw-terms -%}{%- if t != "" and t != " " -%}{{ t | strip }};{%- endif -%}{%- endfor -%}{%- endcapture -%}
-{%- assign terms = terms | split: ";" | sort -%}
-{%- assign uniqueTerms = terms | uniq | sort -%}
-
-{%- assign termsMin = include.min | plus: 0 | default: 1 -%}
-{%- assign cloud_id = include.id | default: "cloud" -%}
-
+{%- endcomment -%}
+{%- if page.cloud-fields == "site.data.theme.subjects-fields" -%}
+    {% assign fields = site.data.theme.subjects-fields %}
+    {% assign min = site.data.theme.subjects-min | default: 1 %}
+    {% assign stopwords = site.data.theme.subjects-stopwords %}
+{%- elsif page.cloud-fields == "site.data.theme.locations-fields" -%}
+    {% assign fields = site.data.theme.locations-fields %}
+    {% assign min = site.data.theme.locations-min | default: 1 %}
+    {% assign stopwords = site.data.theme.locations-stopwords %}
+{%- else -%}
+    {% assign fields = page.cloud-fields | default: "subjects" %}
+    {% assign min = page.cloud-min | default: 1 %}
+    {% assign stopwords = page.cloud-stopwords %}
+{%- endif -%}
+{%- assign cloud-fields = fields | split: ";" -%}
 <script>
-    /* subject terms + count */
-    var terms = [
-        {% for u in uniqueTerms %}{% assign count = terms | where_exp: 'item', 'item == u' | size %}{% if count >= termsMin %}[ {{ u | jsonify }}, {{ count }}],{% endif %}{% endfor %}[]
-    ];
-    terms = terms.slice(0,-1);
-
-    {% if include.stopwords %}/* apply stopwords */
-    var stopWords = {{ include.stopwords | downcase | split: ';' | jsonify }};
-    terms = terms.filter(function(a) { return stopWords.indexOf(a[0]) < 0;});{% endif %}
+{% if page.shuffle == true %}
+/* Fisher-Yates shuffle https://bost.ocks.org/mike/shuffle/ */
+function shuffle(array) {
+    var m = array.length, t, i;
+    while (m) {
+    i = Math.floor(Math.random() * m--);
+    t = array[m];
+    array[m] = array[i];
+    array[i] = t;
+    }
+    return array;
+}
+{% endif %}
+/* function to create cloud */ 
+function makeGrid(terms) {
+    // get cloud div
+    var cloud = document.getElementById("cloud-{{ page.cloud-fields | slugify }}");
+    var i, size;
+    var cloud_items = "";
     /* calculate max size */
     var counts = terms.map(function(obj){ return obj[1]; });
     var countMax = counts.reduce(function(a, b) { return Math.max(a, b); });
-    var cloud = document.getElementById("{{ cloud_id }}");
-    {% if include.shuffle == true %}
-    /* Fisher-Yates shuffle https://bost.ocks.org/mike/shuffle/ */
-    function shuffle(array) {
-        var m = array.length, t, i;
-        while (m) {
-        i = Math.floor(Math.random() * m--);
-        t = array[m];
-        array[m] = array[i];
-        array[i] = t;
-        }
-        return array;
+    {% if page.shuffle == true %}shuffle(terms);{% else %}terms.sort();{% endif %}
+    // create each term link
+    for (i = 0; i < terms.length; i++) {
+        size = Math.round(terms[i][1] * 9 / countMax + 1); 
+        cloud_items += '<a class="btn btn-{{ page.button | default: "outline-primary" }} m-2 tagcloud' + size + '" href="{{ "/browse.html" | relative_url }}#' + encodeURIComponent(terms[i][0]) + '" >' + terms[i][0] + '</a>';
     }
+    cloud.innerHTML = cloud_items;
+}
 
-    {% endif %}
-    function mapSize(x) { return Math.round(x * 9 / countMax + 1); }
-    /* create cloud */
-    function makeGrid(array) {
-        var i, size;
-        var items = "";
-        {% if include.shuffle == true %}shuffle(array);{% endif %}
-        for (i = 0; i < array.length; i++) {
-            size = mapSize(array[i][1]);
-            items += '<a class="btn btn-{{ page.button | default: "outline-primary" }} m-2 tagcloud' + size + '" href="{{ "/browse.html" | relative_url }}#' + encodeURIComponent(array[i][0]) + '" >' + array[i][0] + '</a>';
-        }
-        cloud.innerHTML = items;
+/* create cloud from full metadata */
+function pageInit(items) {
+    var raw_terms = [];
+    // get cloud fields from metadata
+    for (var i = 0; i < items.length; i++) {
+        {% for c in cloud-fields %}
+        if(items[i][{{ c | jsonify }}]) { raw_terms.push(items[i][{{ c | jsonify }}]); } 
+        {% endfor %}
     }
+    // split multivalued fields and clean up extra white space
+    const re = /\s*;+\s*/;
+    var clean_terms = raw_terms.join(";").toLowerCase().split(re);
+    // find unique terms
+    var unique_terms = clean_terms.filter(function(value, index, self) { return self.indexOf(value) === index; });
+    // count unique values and filter based on termsMin
+    var terms = [];
+    for (var i = 0; i < unique_terms.length; i++) {
+        var count = clean_terms.filter(function(t) { return t == unique_terms[i] }).length;
+        if (count >= {{ min | default: 1 }}) {
+            terms.push([unique_terms[i],count]);
+        }
+    }
+    {% if stopwords %}/* apply stopwords */
+    var stopWords = {{ stopwords | downcase | split: ';' | jsonify }};
+    terms = terms.filter(function(a) { return stopWords.indexOf(a[0]) < 0;});{% endif %}
+    // create cloud
     makeGrid(terms);
+};
+
+{% include js/cb-items.js %}
 
 </script>

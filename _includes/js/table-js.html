@@ -1,12 +1,25 @@
 {% assign fcount = site.data.config-table | size %}
+{%- assign fields = site.data.config-table | map: 'field' -%}
 /* load DataTables with jquery bundled */
 <script type="text/javascript" language="javascript" src="{{ '/assets/lib/datatables/datatables.min.js' | relative_url }}"></script>
 <script>
-/* initialize DataTables using jquery */
-$(document).ready( function () {
+
+function pageInit(items) {
+    // set up data
+    var table_data = [];
+    // get configured fields
+    for (var i = 0; i < items.length; i++) {
+        var row = [];
+        {% for f in fields %}
+        if(items[i][{{ f | jsonify }}]) { row.push(items[i][{{ f | jsonify }}]); } else { row.push("n/a"); }
+        {% endfor %}
+        row.push("{{ '/item.html?id=' | relative_url }}" + items[i].objectid );
+        table_data.push(row);
+    }
+    // init datatables 
     $('#item-table').DataTable( {
         // use DataTables ajax load to 
-        ajax: { url: '{{ "/assets/js/metadata.min.json" | relative_url }}', dataSrc: 'objects' },
+        data: table_data,
         // defer render to speed up large sets
         "deferRender": true,
         // enable pagination 
@@ -28,5 +41,8 @@ $(document).ready( function () {
         // sort based on the second column
         order: [[ 1, "asc" ]]
     });
-});
+}
+
+{% include js/cb-items.js %}
+
 </script>

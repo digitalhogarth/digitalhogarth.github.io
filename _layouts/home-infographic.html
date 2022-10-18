@@ -1,29 +1,26 @@
 ---
 # Default home page with boxes providing collection stats
 layout: page
+custom-foot: js/home-js.html
 ---
-{%- assign items = site.data[site.metadata] -%}
 <div class="row">
   <div class="col-md-8">
 
     {% include index/description.html %}
-    {% include index/carousel.html title="Sample Items" height="300" %}
+
+    {% include index/carousel.html title="Sample Items" height=450 %}
   
   </div>
-  <div class="col-md-4">  
+  <div class="col-md-4">
 
     {% include index/time.html %}
 
-    {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="primary" %}
+    {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="primary" max=8 %}
 
-    {% include index/featured-terms.html field="location" title="Locations" btn-color="outline-secondary" %}
+    {% include index/featured-terms.html field="creator" title="Creators" btn-color="success" max=8 %}
 
     {% include index/objects.html %}
 
   </div>
-  <div class="col-md-12">
-
-    {% include index/data-download.html %}
-
-  </div>
+  
 </div>
