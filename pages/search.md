@@ -7,3 +7,4 @@ permalink: /search/
 ---
 
 ## Full metadata search:
+Use the search feature to search for specific Hogarth images or to search for different artwork attributes to group and explore the images:

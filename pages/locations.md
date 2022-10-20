@@ -10,5 +10,5 @@ cloud-fields: site.data.theme.locations-fields
 
 ## Browse Locations
 
-Use this word cloud visualization to browse locations.
-Word size is determined by frequency and all words link to a corresponding collection search.
+Images are placed into locations according to where the artworks are currently held.
+Use the map feature to explore the different Hogarth collections in the world. Locations will be listed below: 
