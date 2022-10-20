@@ -10,14 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://images.metmuseum.org/CRDImages/dp/original/DP827010.jpg" %}
 
-## About CollectionBuilder-Sheets
+## About Digital Hogarth
 
-This site is generated using [CollectionBuilder-Sheets](https://github.com/CollectionBuilder/collectionbuilder-sheets), an experimental template that directly parses CSVs to create small digital collection exhibits on GitHub Pages designed for teaching digital library skills.
+This is a class project for IS-587. We are using the CollectionBuilder static site to create a usable digital image and data repository for William Hogarth artwork images. 
 
-Using CB-Sheets, it is possible to use a Google Sheets spreadsheet for your collection metadata, allowing you to see the outcome of metadata edits update immediately.
-
-**This project is in progress and not fully functional!**
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
