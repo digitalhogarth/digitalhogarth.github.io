@@ -12,5 +12,9 @@ credits: true
 
 ## About Digital Hogarth
 
-This is a class project for IS-587. We are using the CollectionBuilder static site to create a usable digital image and data repository for William Hogarth artwork images. 
+This is a class project for IS-578: Introduction to Digital Humanities. We are using the CollectionBuilder static site to create a usable digital image and data repository for William Hogarth artwork images. 
+
+This digital project was created by April, Dan, Daniel, Daniela, and Owen for an audience of scholars or interested individuals to view and explore a repository of Hogarth artwork images.
+
+The data and images for this project was developed through online museum sources, public domain images, and the group's categorization and contextualization of Hogarth's work.
 
