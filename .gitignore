@@ -14,3 +14,5 @@ vendor/
 
 # temporarily ignore gemfile.lock
 Gemfile.lock
+
+.idea/
