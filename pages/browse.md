@@ -9,4 +9,4 @@ permalink: /browse.html
 ## Browse Items
 Use the Browse page to see a number of featured items that highlight the variety of images in the Digital Hogarth Project.
 Browse the image repository according to title, material, date, movement, location, and subject. 
-Subject groupings include ornament, ticket, shop card, satire, book illustration, religious/mythology, frontispiece, letterhead, portrait, conversation piece, and moral instruction. 
+Subject groupings include Portrait; Ticket; Book Illustration; Shop Card; Bookplate; Frontispiece; Ornament, Sign, Letterhead, Seal, House; Satire; Historical/Religious/Literary ; Conversation Piece; Moral Instruction
