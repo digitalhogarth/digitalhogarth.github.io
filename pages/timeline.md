@@ -6,3 +6,4 @@ permalink: /timeline.html
 ---
 
 ## Collection Timeline
+Use this page to view Hogarth images placed chronological order, grouped according to year of creation. 

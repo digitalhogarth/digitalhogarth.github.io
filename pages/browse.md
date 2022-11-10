@@ -7,6 +7,4 @@ permalink: /browse.html
 ---
 
 ## Browse Items
-Use the Browse page to see a number of featured items that highlight the variety of images in the Digital Hogarth Project.
-Browse the image repository according to title, material, date, movement, location, and subject. 
-Subject groupings include Portrait; Ticket; Book Illustration; Shop Card; Bookplate; Frontispiece; Ornament, Sign, Letterhead, Seal, House; Satire; Historical/Religious/Literary ; Conversation Piece; Moral Instruction
+Use this page to browse the collection images and their associated data. Search the image repository according to title, material, date, genre of image, location, and subject. Type “1759” or “Frontispiece” or “marriage” in the search bar to see image groups and explore the collection!

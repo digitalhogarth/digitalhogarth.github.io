@@ -10,5 +10,5 @@ cloud-fields: site.data.theme.locations-fields
 
 ## Browse Locations
 
-Images are placed into locations according to where the artworks are currently held.
-Use the map feature to explore the different Hogarth collections in the world. Locations will be listed below: 
+Use this word cloud visualization to browse the collected images and associated data through the current location of Hogarth’s images. Word size is determined by frequency of artworks that exist in a given geographic area and all words link to a corresponding collection word search. This page suggests paths for the visitor to explore the collection through search terms for Hogarth’s artwork location. Use the search page to search in your own criteria, and see the artworks placed on a map in the Map tab. 
+
