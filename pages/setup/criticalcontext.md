@@ -6,9 +6,10 @@ permalink: /criticalcontext.html
 
 ## **Critical Context**  
 
+
 Many William Hogarth artworks contain an oppressive iconographical system of images depicting people of color. Some Hogarth works, such as A Turkish Bath (link to our website), fit the description of “Orientalism,” constructed by postcolonial critics and Art History scholars. Other Hogarth works, such as _Plate 2 (Quarrels with Her Jew Collector)_, _The Toilette / The Duchess’ Morning Levee_, and _Marriage A-La-Mode ‘The Toilette’_ depict individuals of African descent as servants or enslaved individuals within British society. In these images, Hogarth depicts people of Middle Eastern and African descent in denigrating positions of inferiority or servitude without respect towards the cultures or people depicted.
 
-In this section we provide important critical context to help visitors understand the historical oppressive and colonial context to Hogarth’s work and British art of his era. These sources and quotes are by no means an exhaustive exploration of the literature on the colonial imagery of Hogarth and his era. We offer these perspectives to contextualize our collection, present a glimpse into the conversation surrounding Hogarth and representation, and to provide visitors with a path to further critical exploration of Art History. Inspired by Dr Rupika Risam’s proposals in her text _New Digital Worlds_, we aim to resist uncritically reinscribing incorrect, offensive, and colonial ways of seeing and presenting the culture of others. 
+In this section we provide important critical context to help visitors understand the historical oppressive and colonial context to Hogarth’s work and British art of his era. These sources and quotes are by no means an exhaustive exploration of the literature on the colonial imagery of Hogarth and his era. We offer these perspectives to contextualize our collection, present a glimpse into the conversation surrounding Hogarth and representation, and to provide visitors with a path to further critical exploration of Art History. Inspired by Dr Roopika Risam’s proposals in her text _New Digital Worlds_, we aim to resist uncritically reinscribing incorrect, offensive, and colonial ways of seeing and presenting the culture of others. 
 
 
 > > <span style="font-size:.5em">Risam, Roopika. _New Digital Worlds : Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy_. Evanston, Illinois: Northwestern University Press, 2019. Print., p. 4.</span>
@@ -18,14 +19,15 @@ In this section we provide important critical context to help visitors understan
 
 ### Edward Said - _Orientalism_
 
-> “The Orient is not only adjacent to Europe; it is also the place of Europe's greatest and richest and oldest colonies, 
+> "The Orient is not only adjacent to Europe; it is also the place of Europe's greatest and richest and oldest colonies, 
 > the source of its civilizations and languages, its cultural contestant, and one of its deepest and most recurring images 
 > of the Other. In addition, the Orient has helped to define Europe (or the West) as its contrasting image, idea, 
 > personality, experience. Yet none of this Orient is merely imaginative. The Orient is an integral part of European 
 > material civilization and culture. Orientalism expresses and represents that part culturally and even ideologically 
 > as a mode of discourse with supporting institutions, vocabulary, scholarship, imagery, doctrines, even colonial 
-> bureaucracies and colonial styles.”
+> bureaucracies and colonial styles."
 > > <span style="font-size:.75em">Said, Edward. _Orientalism_. New York City: Vintage Books, 1979.</span>   
+> 
 > 
 ### Linda Nochlin - “The Imaginary Orient”
 
@@ -35,6 +37,7 @@ In this section we provide important critical context to help visitors understan
 > (Maybe another selected quote from this article? Will look further into it)  
 > 
 > > <span style="font-size:.75em">Nochlin, Linda “The Imaginary Orient”. _Art In America_, May 1983. pp.119-131, 186-19. https://aestheticapperceptions.files.wordpress.com/2013/01/nochlin_imaginary_orient.pdf </span>  
+> 
 > 
 ### Peter Wagner - “Hogarth and the Other”
 
@@ -62,6 +65,7 @@ In this section we provide important critical context to help visitors understan
 >
 > > <span style="font-size:.75em">Wagner, P. (2009). "Hogarth and the Other". In _Word & Image in Colonial and Postcolonial Literatures and Cultures_. Leiden, The Netherlands: Brill. pp. 21-22, 25 doi: https://doi-org.proxy2.library.illinois.edu/10.1163/9789042027442_003 </span> 
 >
+> 
 ### Felicity A. Nussbaum - “Between ‘Oriental’ and ‘Blacks So Called’, 1688 - 1788”
 
 > “[I]n Hogarth the subtle sexual connections between effete English people of ‘quality’, East Indian page, and sub-Saharan 
@@ -76,10 +80,12 @@ In this section we provide important critical context to help visitors understan
 >
 > > <span style="font-size:.75em">Nussbaum, Felicity A., 'Between ‘Oriental’ and ‘Blacks So Called’, 1688–1788', in Daniel Carey, and Lynn Festa (eds), _The Postcolonial Enlightenment: Eighteenth-Century Colonialism and Postcolonial Theory_ (Oxford, 2013; online edn, Oxford Academic, 3 Mar. 2015), https://doi.org/10.1093/acprof:osobl/9780199677597.003.0005, accessed 10 Nov. 2022.</span>  
 > 
+> 
 ### The Yale Center for British Art
 
 The Yale Center for British Art’s exhibition Slavery and Portraiture in 18th Century Atlantic Britain provides valuable contextualization of some of Hogarth’s work within the larger art production of the 18th Century Britan. This collection includes scholarly perspectives that examine the influence of colonial empire and slavery on the artworks selected, while including objects of challenge and resistance to these oppressive social systems. 
 > https://interactive.britishart.yale.edu/slavery-and-portraiture/objects  
+> 
 > 
 ### _Stanford Encyclopedia of Philosophy: Colonialism_ – Section 5: "Post-Colonial Theory"
 
@@ -95,6 +101,7 @@ The Yale Center for British Art’s exhibition Slavery and Portraiture in 18th C
 >
 > > <span style="font-size:1em">Kohn, Margaret and Kavita Reddy, "Colonialism", The Stanford Encyclopedia of Philosophy (Summer 2022 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2022/entries/colonialism/>.</span>  
 > 
+> 
 ### Further Reading in Post-Colonial Theory:
 
 > Chakrabarty, Dipesh, 2007. _Provincializing Europe: Postcolonial Thought and Historical Difference_, New Jersey: Princeton University Press.
@@ -102,5 +109,3 @@ The Yale Center for British Art’s exhibition Slavery and Portraiture in 18th C
 > Guha, Ranajit and Spivak, Gayatri, 1988. _Selected Subaltern Studies_, New York and Oxford: Oxford University Press.
 > Spivak, Gayatri, 1988. “Can the Subaltern Speak?,” in C. Nelson and L. Grossberg (eds.), _Marxism and the Interpretation of Culture_, Urbana: University of Illinois Press, pp. 271–313.  
 > 
-
-
