@@ -27,6 +27,7 @@ In this section we provide important critical context to help visitors understan
 > as a mode of discourse with supporting institutions, vocabulary, scholarship, imagery, doctrines, even colonial 
 > bureaucracies and colonial styles."
 > > <span style="font-size:.7em">Said, Edward. _Orientalism_. New York City: Vintage Books, 1979.</span>
+>
 <br>
 
 ### Linda Nochlin - “The Imaginary Orient”
@@ -37,6 +38,7 @@ In this section we provide important critical context to help visitors understan
 > (Maybe another selected quote from this article? Will look further into it)  
 > 
 > > <span style="font-size:.7em">Nochlin, Linda “The Imaginary Orient”. _Art In America_, May 1983. pp.119-131, 186-19. https://aestheticapperceptions.files.wordpress.com/2013/01/nochlin_imaginary_orient.pdf </span>
+>
 <br>
 
 ### Peter Wagner - “Hogarth and the Other”
@@ -64,6 +66,7 @@ In this section we provide important critical context to help visitors understan
 > convention, as David Dabydeen would see it, Africans are an important part of his satirical narrative.”  
 >
 > > <span style="font-size:.7em">Wagner, P. (2009). "Hogarth and the Other". In _Word & Image in Colonial and Postcolonial Literatures and Cultures_. Leiden, The Netherlands: Brill. pp. 21-22, 25 doi: https://doi-org.proxy2.library.illinois.edu/10.1163/9789042027442_003 </span>
+>
 <br>
 
 ### Felicity A. Nussbaum - “Between ‘Oriental’ and ‘Blacks So Called’, 1688 - 1788”
@@ -79,12 +82,14 @@ In this section we provide important critical context to help visitors understan
 > their blackness, we miss important metaphoric connections and differences.”
 >
 > > <span style="font-size:.7em">Nussbaum, Felicity A., 'Between ‘Oriental’ and ‘Blacks So Called’, 1688–1788', in Daniel Carey, and Lynn Festa (eds), _The Postcolonial Enlightenment: Eighteenth-Century Colonialism and Postcolonial Theory_ (Oxford, 2013; online edn, Oxford Academic, 3 Mar. 2015), https://doi.org/10.1093/acprof:osobl/9780199677597.003.0005, accessed 10 Nov. 2022.</span>
+>
 <br>
 
 ### The Yale Center for British Art
 
 The Yale Center for British Art’s exhibition Slavery and Portraiture in 18th Century Atlantic Britain provides valuable contextualization of some of Hogarth’s work within the larger art production of the 18th Century Britan. This collection includes scholarly perspectives that examine the influence of colonial empire and slavery on the artworks selected, while including objects of challenge and resistance to these oppressive social systems. 
 > <span style="font-size:.7em">https://interactive.britishart.yale.edu/slavery-and-portraiture/objects </span>
+>
 <br>
 
 ### _Stanford Encyclopedia of Philosophy: Colonialism_ – Section 5: "Post-Colonial Theory"
@@ -97,6 +102,7 @@ The Yale Center for British Art’s exhibition Slavery and Portraiture in 18th C
 >This discursive approach is distinct both from the materialist view that knowledge is simply a reflection of economic or political interests and from the idealist view that scholarship is disinterested and neutral. Following Foucault, 
 > Said describes discourse as a form of knowledge that is not used instrumentally in service of power but rather is itself a form of power.”
 >> <span style="font-size:.7em"> Kohn, Margaret and Kavita Reddy, "Colonialism", The Stanford Encyclopedia of Philosophy (Summer 2022 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2022/entries/colonialism/>. </span>
+>
 <br>
 
 ### Further Reading in Post-Colonial Theory
