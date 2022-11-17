@@ -11,7 +11,7 @@ Many William Hogarth artworks contain an oppressive iconographical system of ima
 In this section we provide important critical context to help visitors understand the historical oppressive and colonial context to Hogarth’s work and British art of his era. These sources and quotes are by no means an exhaustive exploration of the literature on the colonial imagery of Hogarth and his era. We offer these perspectives to contextualize our collection, present a glimpse into the conversation surrounding Hogarth and representation, and to provide visitors with a path to further critical exploration of Art History. Inspired by Dr Roopika Risam’s proposals in her text _New Digital Worlds_, we aim to resist uncritically reinscribing incorrect, offensive, and colonial ways of seeing and presenting the culture of others. 
 
 
-> > <span style="font-size:.5em">Risam, Roopika. _New Digital Worlds : Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy_. Evanston, Illinois: Northwestern University Press, 2019. Print., p. 4.</span>
+> > <span style="font-size:.7em">Risam, Roopika. _New Digital Worlds : Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy_. Evanston, Illinois: Northwestern University Press, 2019. Print., p. 4.</span>
 
 
 ## Critical Perspectives: 
