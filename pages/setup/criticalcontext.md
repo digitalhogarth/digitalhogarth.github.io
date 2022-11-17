@@ -19,16 +19,15 @@ In this section we provide important critical context to help visitors understan
 
 ### Edward Said - _Orientalism_
 
-> "The Orient is not only adjacent to Europe; it is also the place of Europe's greatest and richest and oldest colonies, 
-> the source of its civilizations and languages, its cultural contestant, and one of its deepest and most recurring images 
-> of the Other. In addition, the Orient has helped to define Europe (or the West) as its contrasting image, idea, 
-> personality, experience. Yet none of this Orient is merely imaginative. The Orient is an integral part of European 
-> material civilization and culture. Orientalism expresses and represents that part culturally and even ideologically 
-> as a mode of discourse with supporting institutions, vocabulary, scholarship, imagery, doctrines, even colonial 
-> bureaucracies and colonial styles."
-> > <span style="font-size:.7em">Said, Edward. _Orientalism_. New York City: Vintage Books, 1979.</span>
->
-<br>
+'''The Orient is not only adjacent to Europe; it is also the place of Europe's greatest and richest and oldest colonies, 
+the source of its civilizations and languages, its cultural contestant, and one of its deepest and most recurring images 
+of the Other. In addition, the Orient has helped to define Europe (or the West) as its contrasting image, idea, 
+personality, experience. Yet none of this Orient is merely imaginative. The Orient is an integral part of European 
+ material civilization and culture. Orientalism expresses and represents that part culturally and even ideologically 
+as a mode of discourse with supporting institutions, vocabulary, scholarship, imagery, doctrines, even colonial 
+bureaucracies and colonial styles.'''
+<span style="font-size:.7em">Said, Edward. _Orientalism_. New York City: Vintage Books, 1979.</span>
+
 
 ### Linda Nochlin - “The Imaginary Orient”
 
@@ -37,7 +36,7 @@ In this section we provide important critical context to help visitors understan
 > ultimately intended.”
 > (Maybe another selected quote from this article? Will look further into it)  
 > 
-> > <span style="font-size:.7em">Nochlin, Linda “The Imaginary Orient”. _Art In America_, May 1983. pp.119-131, 186-19. https://aestheticapperceptions.files.wordpress.com/2013/01/nochlin_imaginary_orient.pdf </span>
+> > <span style="font-size:.7em">Nochlin, Linda “The Imaginary Orient.” _Art In America_, May 1983. pp.119-131, 186-19. https://aestheticapperceptions.files.wordpress.com/2013/01/nochlin_imaginary_orient.pdf </span>
 >
 <br>
 
