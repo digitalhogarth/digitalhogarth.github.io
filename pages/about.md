@@ -23,7 +23,8 @@ The project team decided to use the categories of portrait; ticket; shopcard; bo
 
 
 ### Data
-For this project we used images from the Metropolitan Museum of Art, WikiMedia, and other sources. Metadata and categorization applied to these images comes from these sources along with the project team’s own classification of Hogarth’s work and its forms, functions, content, and historical context. Descriptions associated with images in our data page come from these sources as well as..
+For this project, we compiled a list of every known work of William Hogarth using the [Wikipedia List of Hogarth’s Work](https://en.wikipedia.org/wiki/List_of_works_by_William_Hogarth) page. Using sources such as Metropolitan Museum of Art, WikiMedia, Royal Academy of Arts, and others, we created a spreadsheet that listed the works along with the source we used for the images displayed in our collection. The project team then categorized each work into a set of classifications based on the type of artwork:  portrait; ticket; book illustration; shop card; book plate; frontispiece; ornament, sign, letterhead, seal; satire; historical, religious, literary; conversation piece; and moral instruction. Using these classifications, we narrowed down the number of works to display in our collection proportionally. The image source data from the original spreadsheet was then transferred to a spreadsheet connected to the CollectionBuilder site where the additional metadata was added to each image. 
+
 [Data friends add more? Developing more text and sources for descriptions on our own? Will discuss!]
 
 ### Image Data Sources Citations
