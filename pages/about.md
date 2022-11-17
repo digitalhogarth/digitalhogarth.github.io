@@ -10,11 +10,11 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://images.metmuseum.org/CRDImages/dp/original/DP827010.jpg" %}
 
-## About Digital Hogarth  
+## **About Digital Hogarth**  
 
 
 ### Platform Static Site: 
-Digital Hogarth uses the CollectionBuilder [link](https://collectionbuilder.github.io/) static site developed by the University of Idaho Library [link](https://www.lib.uidaho.edu/) system. We chose to use the platform because it uses the jekyll framework which provides a minimal computing opportunity to present a digital collection with images and associated data. The framework can utilize project data from google sheets and provide a dynamic experience and a pleasing, accessible interface for users.  
+Digital Hogarth uses the [CollectionBuilder static site](https://collectionbuilder.github.io/) developed by [the University of Idaho Library](https://www.lib.uidaho.edu/) system. We chose to use the platform because it uses the jekyll framework which provides a minimal computing opportunity to present a digital collection with images and associated data. The framework can utilize project data from google sheets and provide a dynamic experience and a pleasing, accessible interface for users.  
 
 
 ### Subjects:

@@ -4,7 +4,8 @@ layout: page-narrow
 permalink: /criticalcontext.html
 ---
 
-# Critical Context 
+## **Critical Context**  
+
 
 Many William Hogarth artworks contain an oppressive iconographical system of images depicting people of color. Some Hogarth works, such as A Turkish Bath (link to our website), fit the description of “Orientalism,” constructed by postcolonial critics and Art History scholars. Other Hogarth works, such as _Plate 2 (Quarrels with Her Jew Collector)_, _The Toilette / The Duchess’ Morning Levee_, and _Marriage A-La-Mode ‘The Toilette’_ depict individuals of African descent as servants or enslaved individuals within British society. In these images, Hogarth depicts people of Middle Eastern and African descent in denigrating positions of inferiority or servitude without respect towards the cultures or people depicted.
 
@@ -17,21 +18,22 @@ In this section we provide important critical context to help visitors understan
 ## Critical Perspectives:  
 
 
+
 ### Edward Said - _Orientalism_
 
 > “The Orient is not only adjacent to Europe; it is also the place of Europe's greatest and richest and oldest colonies, the source of its civilizations and languages, its cultural contestant, and one of its deepest and most recurring images of the Other. In addition, the Orient has helped to define Europe (or the West) as its contrasting image, idea, personality, experience. Yet none of this Orient is merely imaginative. The Orient is an integral part of European material civilization and culture. Orientalism expresses and represents that part culturally and even ideologically as a mode of discourse with supporting institutions, vocabulary, scholarship, imagery, doctrines, even colonial bureaucracies and colonial styles.”
-
-> > <span style="font-size:.5em">Said, Edward. _Orientalism_. New York City: Vintage Books, 1979.</span>
-
+> > <span style="font-size:1em">Said, Edward. _Orientalism_. New York City: Vintage Books, 1979.</span>
+> 
 
 ### Linda Nochlin - “The Imaginary Orient”
 
-> “The white man, the Westerner, is of course always implicitly present in Orientalist paintings like the Snake Charmer; his is necessarily the controlling gaze, the gaze which brings the Oriental world into being, the gaze for which it is ultimately intended.” 
+> “The white man, the Westerner, is of course always implicitly present in Orientalist paintings like the Snake Charmer; his is necessarily the controlling gaze, the gaze which brings the Oriental world into being, the gaze for which it is ultimately intended.”
+> (Maybe another selected quote from this article? Will look further into it)
+>  
+> 
 
-(Maybe another selected quote from this article? Will look further into it)
-
-
-> > <span style="font-size:.5em">Nochlin, Linda “The Imaginary Orient”. _Art In America_, May 1983. pp.119-131, 186-19. https://aestheticapperceptions.files.wordpress.com/2013/01/nochlin_imaginary_orient.pdf </span>
+> > <span style="font-size:.5em">Nochlin, Linda “The Imaginary Orient”. _Art In America_, May 1983. pp.119-131, 186-19. https://aestheticapperceptions.files.wordpress.com/2013/01/nochlin_imaginary_orient.pdf </span>  
+> 
 
 
 ### Peter Wagner - “Hogarth and the Other”
@@ -41,7 +43,7 @@ In this section we provide important critical context to help visitors understan
 > “Some of the generally shared attitudes towards blacks – part of the English mentalité, one might argue – reappear in Hogarth’s art: the African as (non-European) observer, as the dangerous Other, and as the inferior slave. Significantly, when we find Africans depicted in Hogarth’s art, what strikes one immediately is both the reflection of their inferior social position and their subsidiary role in Western art. Especially in painting, blacks were frequently likened to animals and figure as mere foils reflecting (and reflecting on) the superiority of Europeans. Hogarth’sgraphic art engages critically both with social history and with art history by drawing our attention to the stereotyped depiction of Africans while boosting their seemingly peripheral role in art and life. More than involving an erudite nod at artistic convention, as David Dabydeen would see it, Africans are an important part of his satirical narrative.”
 
 
-> > <span style="font-size:.5em">Wagner, P. (2009). "Hogarth and the Other". In _Word & Image in Colonial and Postcolonial Literatures and Cultures_. Leiden, The Netherlands: Brill. pp. 21-22, 25
+> > <span style="font-size:1em">Wagner, P. (2009). "Hogarth and the Other". In _Word & Image in Colonial and Postcolonial Literatures and Cultures_. Leiden, The Netherlands: Brill. pp. 21-22, 25
 doi: https://doi-org.proxy2.library.illinois.edu/10.1163/9789042027442_003 </span>  
 > 
 
@@ -53,8 +55,7 @@ doi: https://doi-org.proxy2.library.illinois.edu/10.1163/9789042027442_003 </spa
 
 > “[I]n Plate 4 of Hogarth’s Marriage A-La-Mode, ‘The Toilette’, commentators often draw parallels between the two black servants attending the lady’s levée (link to image). They apply conventions about Africans and slaves to both figures without distinguishing between them or contextualizing the younger page within Eastern conventions. If we assume that both figures may be interpreted solely through the Black Atlantic triangle, rather than incorporating ‘the East’ within their blackness, we miss important metaphoric connections and differences.”
 
-
-> > <span style="font-size:.5em">Nussbaum, Felicity A., 'Between ‘Oriental’ and ‘Blacks So Called’, 1688–1788', in Daniel Carey, and Lynn Festa (eds), _The Postcolonial Enlightenment: Eighteenth-Century Colonialism and Postcolonial Theory_ (Oxford, 2013; online edn, Oxford Academic, 3 Mar. 2015), https://doi.org/10.1093/acprof:osobl/9780199677597.003.0005, accessed 10 Nov. 2022.</span>  
+> > <span style="font-size:1em">Nussbaum, Felicity A., 'Between ‘Oriental’ and ‘Blacks So Called’, 1688–1788', in Daniel Carey, and Lynn Festa (eds), _The Postcolonial Enlightenment: Eighteenth-Century Colonialism and Postcolonial Theory_ (Oxford, 2013; online edn, Oxford Academic, 3 Mar. 2015), https://doi.org/10.1093/acprof:osobl/9780199677597.003.0005, accessed 10 Nov. 2022.</span>  
 > 
 
 
@@ -69,7 +70,8 @@ The Yale Center for British Art’s exhibition Slavery and Portraiture in 18th C
 
 > “The term orientalism described a structured set of concepts, assumptions, and discursive practices that were used to produce, interpret, and evaluate knowledge about non-European peoples. Said’s analysis made it possible for scholars to deconstruct literary and historical texts in order to understand how they reflected and reinforced the imperialist project…Said emphasizes that it is also a mode of exercising authority by organizing and classifying knowledge about the Orient. This discursive approach is distinct both from the materialist view that knowledge is simply a reflection of economic or political interests and from the idealist view that scholarship is disinterested and neutral. Following Foucault, Said describes discourse as a form of knowledge that is not used instrumentally in service of power but rather is itself a form of power.”
 
-> > <span style="font-size:.5em">Kohn, Margaret and Kavita Reddy, "Colonialism", The Stanford Encyclopedia of Philosophy (Summer 2022 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2022/entries/colonialism/>.</span>  
+> > <span style="font-size:1em">Kohn, Margaret and Kavita Reddy, "Colonialism", The Stanford Encyclopedia of Philosophy (Summer 2022 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2022/entries/colonialism/>.</span>  
+> 
 > 
 
 
