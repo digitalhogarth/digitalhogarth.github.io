@@ -96,16 +96,13 @@ The Yale Center for British Art’s exhibition Slavery and Portraiture in 18th C
 ### _Stanford Encyclopedia of Philosophy: Colonialism_ – Section 5: "Post-Colonial Theory"
 
 
-> “The term orientalism described a structured set of concepts, assumptions, and discursive practices that were used to 
-> produce, interpret, and evaluate knowledge about non-European peoples. Said’s analysis made it possible for scholars to 
-> deconstruct literary and historical texts in order to understand how they reflected and reinforced the imperialist project…
-> Said emphasizes that it is also a mode of exercising authority by organizing and classifying knowledge about the Orient. 
-> This discursive approach is distinct both from the materialist view that knowledge is simply a reflection of economic 
-> or political interests and from the idealist view that scholarship is disinterested and neutral. Following Foucault, 
-> Said describes discourse as a form of knowledge that is not used instrumentally in service of power but rather is itself 
-> a form of power.”  
->
-> > <span style="font-size:.7em">Kohn, Margaret and Kavita Reddy, "Colonialism", The Stanford Encyclopedia of Philosophy (Summer 2022 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2022/entries/colonialism/>.</span>  
+    "The term orientalism described a structured set of concepts, assumptions, and discursive practices that were used to 
+    produce, interpret, and evaluate knowledge about non-European peoples. Said’s analysis made it possible for scholars to 
+    deconstruct literary and historical texts in order to understand how they reflected and reinforced the imperialist project…
+    Said emphasizes that it is also a mode of exercising authority by organizing and classifying knowledge about the Orient. 
+    This discursive approach is distinct both from the materialist view that knowledge is simply a reflection of economic or political interests and from the idealist view that scholarship is disinterested and neutral. Following Foucault, 
+    Said describes discourse as a form of knowledge that is not used instrumentally in service of power but rather is itself a form of power.”
+<span style="font-size:.7em"> Kohn, Margaret and Kavita Reddy, "Colonialism", The Stanford Encyclopedia of Philosophy (Summer 2022 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2022/entries/colonialism/>. </span>  
 > 
 <br>
 
