@@ -5,7 +5,7 @@ permalink: /criticalcontext.html
 ---
 
 ## **Critical Context**  
-<br>
+
 Many William Hogarth artworks contain an oppressive iconographical system of images depicting people of color. Some Hogarth works, such as A Turkish Bath (link to our website), fit the description of “Orientalism,” constructed by postcolonial critics and Art History scholars. Other Hogarth works, such as _Plate 2 (Quarrels with Her Jew Collector)_, _The Toilette / The Duchess’ Morning Levee_, and _Marriage A-La-Mode ‘The Toilette’_ depict individuals of African descent as servants or enslaved individuals within British society. In these images, Hogarth depicts people of Middle Eastern and African descent in denigrating positions of inferiority or servitude without respect towards the cultures or people depicted.
 
 In this section we provide important critical context to help visitors understand the historical oppressive and colonial context to Hogarth’s work and British art of his era. These sources and quotes are by no means an exhaustive exploration of the literature on the colonial imagery of Hogarth and his era. We offer these perspectives to contextualize our collection, present a glimpse into the conversation surrounding Hogarth and representation, and to provide visitors with a path to further critical exploration of Art History. Inspired by Dr Roopika Risam’s proposals in her text _New Digital Worlds_, we aim to resist uncritically reinscribing incorrect, offensive, and colonial ways of seeing and presenting the culture of others. 
@@ -17,16 +17,10 @@ In this section we provide important critical context to help visitors understan
 
 #### Edward Said - _Orientalism_
 
-"The Orient is not only adjacent to Europe; it is also the place of Europe's greatest and richest and oldest colonies, 
-the source of its civilizations and languages, its cultural contestant, and one of its deepest and most recurring images 
-of the Other. In addition, the Orient has helped to define Europe (or the West) as its contrasting image, idea, 
-personality, experience. Yet none of this Orient is merely imaginative. The Orient is an integral part of European 
- material civilization and culture. Orientalism expresses and represents that part culturally and even ideologically 
-as a mode of discourse with supporting institutions, vocabulary, scholarship, imagery, doctrines, even colonial 
-bureaucracies and colonial styles."
-
-<span style="font-size:.7em">Said, Edward. _Orientalism_. New York City: Vintage Books, 1979.</span>  
-  
+> "The Orient is not only adjacent to Europe; it is also the place of Europe's greatest and richest and oldest colonies, the source of its civilizations and languages, its cultural contestant, and one of its deepest and most recurring images of the Other. In addition, the Orient has helped to define Europe (or the West) as its contrasting image, idea, personality, experience. Yet none of this Orient is merely imaginative. The Orient is an integral part of European material civilization and culture. Orientalism expresses and represents that part culturally and even ideologically as a mode of discourse with supporting institutions, vocabulary, scholarship, imagery, doctrines, even colonial bureaucracies and colonial styles."
+>
+> > span style="font-size:.7em">Said, Edward. _Orientalism_. New York City: Vintage Books, 1979.</span>  
+>
 
 #### Linda Nochlin - “The Imaginary Orient”
 
@@ -89,15 +83,13 @@ their blackness, we miss important metaphoric connections and differences.”
 
 #### _Stanford Encyclopedia of Philosophy: Colonialism_ – Section 5: "Post-Colonial Theory"
 
-"The term orientalism described a structured set of concepts, assumptions, and discursive practices that were used to 
-produce, interpret, and evaluate knowledge about non-European peoples. Said’s analysis made it possible for scholars to 
-deconstruct literary and historical texts in order to understand how they reflected and reinforced the imperialist project…
+"The term orientalism described a structured set of concepts, assumptions, and discursive practices that were used to produce, interpret, and evaluate knowledge about non-European peoples. Said’s analysis made it possible for scholars to deconstruct literary and historical texts in order to understand how they reflected and reinforced the imperialist project…
 Said emphasizes that it is also a mode of exercising authority by organizing and classifying knowledge about the Orient. 
 This discursive approach is distinct both from the materialist view that knowledge is simply a reflection of economic or political interests and from the idealist view that scholarship is disinterested and neutral. Following Foucault, 
 Said describes discourse as a form of knowledge that is not used instrumentally in service of power but rather is itself a form of power.”
  
 <span style="font-size:.7em"> Kohn, Margaret and Kavita Reddy, "Colonialism", The Stanford Encyclopedia of Philosophy (Summer 2022 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2022/entries/colonialism/>.</span>  
-  
+
 
 #### Further Reading in Post-Colonial Theory
 
