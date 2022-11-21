@@ -6,12 +6,14 @@ permalink: /criticalcontext.html
 
 ## **Critical Context**  
 
-
+<p>
+<br>
+</p>
 
 Many William Hogarth artworks contain an oppressive iconographical system of images depicting people of color. 
-Some Hogarth works, such as _A Turkish Bath_ (link to our website), fit the description of “Orientalism,” 
-constructed by postcolonial critics and Art History scholars. Other Hogarth works, such as _Plate 2 (Quarrels with Her Jew Collector)_, 
-_The Toilette / The Duchess’ Morning Levee_, and _Marriage A-La-Mode ‘The Toilette’_depict individuals of African descent 
+Some Hogarth works, such as [_A Turkish Bath_](https://digitalhogarth.github.io/item.html?id=coll080), fit the description of “Orientalism,” 
+constructed by postcolonial critics and Art History scholars. Other Hogarth works, such as [_Plate 2 (Quarrels with Her Jew Collector)_](https://digitalhogarth.github.io/item.html?id=coll009) 
+and [_The Toilette / The Duchess’ Morning Levee_](https://digitalhogarth.github.io/item.html?id=coll025) depict individuals of African descent 
 as servants or enslaved individuals within British society. In these images, Hogarth depicts people of Middle Eastern and 
 African descent in denigrating positions of inferiority or servitude without respect towards the cultures or people depicted.
 
@@ -27,11 +29,13 @@ uncritically reinscribing incorrect, offensive, and colonial ways of seeing and 
 
 <p>
 <br>
-<br>
 </p>
 
 ### Critical Perspectives  
 
+<p>
+<br>
+</p>
 
 #### Edward Said - _Orientalism_ 
 
