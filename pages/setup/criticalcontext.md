@@ -62,7 +62,7 @@ bureaucracies and colonial styles.“ </blockquote>
 his is necessarily the controlling gaze, the gaze which brings the Oriental world into being, the gaze for which it is 
 ultimately intended.“ </blockquote>
 
-<span style="font-size:.7em"> Nochlin, Linda “The Imaginary Orient.” _Art In America_, May 1983. pp.119-131, 186-19. https://aestheticapperceptions.files.wordpress.com/2013/01/nochlin_imaginary_orient.pdf </span>  
+<span style="font-size:.7em"> Nochlin, Linda “The Imaginary Orient.” _Art In America_, May 1983. pp.119-131, 186-19. <https://aestheticapperceptions.files.wordpress.com/2013/01/nochlin_imaginary_orient.pdf>.</span>  
 
 <p>
 <br>
@@ -92,7 +92,7 @@ of Africans while boosting their seemingly peripheral role in art and life. More
 convention, as David Dabydeen would see it, Africans are an important part of his satirical narrative.” </blockquote>
 
 
-<span style="font-size:.7em">Wagner, P. (2009). "Hogarth and the Other". In _Word & Image in Colonial and Postcolonial Literatures and Cultures_. Leiden, The Netherlands: Brill. pp. 21-22, 25 doi: [https://doi-org.proxy2.library.illinois.edu/10.1163/9789042027442_003](https://doi-org.proxy2.library.illinois.edu/10.1163/9789042027442_003) </span> 
+<span style="font-size:.7em">Wagner, P. (2009). "Hogarth and the Other". In _Word & Image in Colonial and Postcolonial Literatures and Cultures_. Leiden, The Netherlands: Brill. pp. 21-22, 25 doi: <https://doi-org.proxy2.library.illinois.edu/10.1163/9789042027442_003> </span> 
 
 <p>
 <br>
@@ -120,7 +120,7 @@ their blackness, we miss important metaphoric connections and differences.” </
 
 [The Yale Center for British Art’s exhibition Slavery and Portraiture in 18th Century Atlantic Britain](https://interactive.britishart.yale.edu/slavery-and-portraiture/objects) provides valuable contextualization of some of Hogarth’s work within the larger art production of the 18th Century Britain. This collection includes scholarly perspectives that examine the influence of colonial empire and slavery on the artworks selected, while including objects of challenge and resistance to these oppressive social systems.
 
-<span style="font-size:.7em">“Slavery and Portraiture in 18th-Century Atlantic Britain.” Yale Center For British Art, https://interactive.britishart.yale.edu/slavery-and-portraiture/objects. </span>
+<span style="font-size:.7em">“Slavery and Portraiture in 18th-Century Atlantic Britain.” Yale Center For British Art, <https://interactive.britishart.yale.edu/slavery-and-portraiture/objects>.</span>
 
 <p>
 <br>
@@ -133,7 +133,7 @@ Said emphasizes that it is also a mode of exercising authority by organizing and
 This discursive approach is distinct both from the materialist view that knowledge is simply a reflection of economic or political interests and from the idealist view that scholarship is disinterested and neutral. Following Foucault, 
 Said describes discourse as a form of knowledge that is not used instrumentally in service of power but rather is itself a form of power.” </blockquote> 
 
-<span style="font-size:.7em"> Kohn, Margaret and Kavita Reddy, "Colonialism", The Stanford Encyclopedia of Philosophy (Summer 2022 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/sum2022/entries/colonialism/>.</span>  
+<span style="font-size:.7em"> Kohn, Margaret and Kavita Reddy, "Colonialism", The Stanford Encyclopedia of Philosophy (Summer 2022 Edition), Edward N. Zalta (ed.), <https://plato.stanford.edu/archives/sum2022/entries/colonialism/>.</span>  
 
 <p>
 <br>
