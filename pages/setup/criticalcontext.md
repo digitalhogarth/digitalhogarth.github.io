@@ -92,7 +92,7 @@ of Africans while boosting their seemingly peripheral role in art and life. More
 convention, as David Dabydeen would see it, Africans are an important part of his satirical narrative.” </blockquote>
 
 
-<span style="font-size:.7em">Wagner, P. (2009). "Hogarth and the Other". In _Word & Image in Colonial and Postcolonial Literatures and Cultures_. Leiden, The Netherlands: Brill. pp. 21-22, 25 doi: https://doi-org.proxy2.library.illinois.edu/10.1163/9789042027442_003 </span> 
+<span style="font-size:.7em">Wagner, P. (2009). "Hogarth and the Other". In _Word & Image in Colonial and Postcolonial Literatures and Cultures_. Leiden, The Netherlands: Brill. pp. 21-22, 25 doi: [https://doi-org.proxy2.library.illinois.edu/10.1163/9789042027442_003](https://doi-org.proxy2.library.illinois.edu/10.1163/9789042027442_003) </span> 
 
 <p>
 <br>
@@ -110,7 +110,7 @@ without distinguishing between them or contextualizing the younger page within E
 both figures may be interpreted solely through the Black Atlantic triangle, rather than incorporating ‘the East’ within 
 their blackness, we miss important metaphoric connections and differences.” </blockquote> 
 
-<span style="font-size:.7em">Nussbaum, Felicity A., 'Between ‘Oriental’ and ‘Blacks So Called’, 1688–1788', in Daniel Carey, and Lynn Festa (eds), _The Postcolonial Enlightenment: Eighteenth-Century Colonialism and Postcolonial Theory_ (Oxford, 2013; online edn, Oxford Academic, 3 Mar. 2015), https://doi.org/10.1093/acprof:osobl/9780199677597.003.0005, accessed 10 Nov. 2022.</span>
+<span style="font-size:.7em">Nussbaum, Felicity A., 'Between ‘Oriental’ and ‘Blacks So Called’, 1688–1788', in Daniel Carey, and Lynn Festa (eds), _The Postcolonial Enlightenment: Eighteenth-Century Colonialism and Postcolonial Theory_ (Oxford, 2013; online edn, Oxford Academic, 3 Mar. 2015), [https://doi.org/10.1093/acprof:osobl/9780199677597.003.0005](https://doi.org/10.1093/acprof:osobl/9780199677597.003.0005), accessed 10 Nov. 2022.</span>
   
 <p>
 <br>
