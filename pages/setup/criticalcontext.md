@@ -31,12 +31,12 @@ bureaucracies and colonial styles.'''
 
 ### Linda Nochlin - “The Imaginary Orient”
 
-> “The white man, the Westerner, is of course always implicitly present in Orientalist paintings like the Snake Charmer; 
-> his is necessarily the controlling gaze, the gaze which brings the Oriental world into being, the gaze for which it is 
-> ultimately intended.”
-> (Maybe another selected quote from this article? Will look further into it)  
-> 
-> > <span style="font-size:.7em">Nochlin, Linda “The Imaginary Orient.” _Art In America_, May 1983. pp.119-131, 186-19. https://aestheticapperceptions.files.wordpress.com/2013/01/nochlin_imaginary_orient.pdf </span>
+' ' ' The white man, the Westerner, is of course always implicitly present in Orientalist paintings like the Snake Charmer; 
+his is necessarily the controlling gaze, the gaze which brings the Oriental world into being, the gaze for which it is 
+ultimately intended. ' ' '
+
+
+''''''<span style="font-size:.7em">Nochlin, Linda “The Imaginary Orient.” _Art In America_, May 1983. pp.119-131, 186-19. https://aestheticapperceptions.files.wordpress.com/2013/01/nochlin_imaginary_orient.pdf </span>''''''
 >
 <br>
 
