@@ -31,7 +31,7 @@ uncritically reinscribing incorrect, offensive, and colonial ways of seeing and 
 <br>
 </p>
 
-<img src="pages/setup/Turkish_Bath.png" alt="A Turkish Bath">
+<img class="fit-picture" src="/Users/owenmonroe/Desktop/DigiHogarth Code/digitalhogarth.github.io/pages/setup/Turkish_Bath.png" alt="" width="50" height="20" title="A Turkish Bath">
 
 
 ### **Critical Perspectives**  
