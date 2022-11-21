@@ -31,6 +31,8 @@ uncritically reinscribing incorrect, offensive, and colonial ways of seeing and 
 <br>
 </p>
 
+<img [Images](https://digitalhogarth.github.io/item.html?id=coll080)>
+
 ### **Critical Perspectives**  
 
 <p>
@@ -92,7 +94,8 @@ of Africans while boosting their seemingly peripheral role in art and life. More
 convention, as David Dabydeen would see it, Africans are an important part of his satirical narrative.” </blockquote>
 
 
-<span style="font-size:.7em">Wagner, P. (2009). "Hogarth and the Other". In _Word & Image in Colonial and Postcolonial Literatures and Cultures_. Leiden, The Netherlands: Brill. pp. 21-22, 25 doi: <https://doi-org.proxy2.library.illinois.edu/10.1163/9789042027442_003> </span> 
+<span style="font-size:.7em">Wagner, P. (2009). "Hogarth and the Other". In _Word & Image in Colonial and Postcolonial Literatures and Cultures_. Leiden, The Netherlands: Brill. pp. 21-22, 25 doi: 
+<https://doi-org.proxy2.library.illinois.edu/10.1163/9789042027442_003> </span> 
 
 <p>
 <br>
