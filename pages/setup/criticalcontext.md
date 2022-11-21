@@ -8,20 +8,29 @@ permalink: /criticalcontext.html
 
 
 
-Many William Hogarth artworks contain an oppressive iconographical system of images depicting people of color. Some Hogarth works, such as _A Turkish Bath_ (link to our website), fit the description of “Orientalism,” constructed by postcolonial critics and Art History scholars. Other Hogarth works, such as _Plate 2 (Quarrels with Her Jew Collector)_, _The Toilette / The Duchess’ Morning Levee_, and _Marriage A-La-Mode ‘The Toilette’_ depict individuals of African descent as servants or enslaved individuals within British society. In these images, Hogarth depicts people of Middle Eastern and African descent in denigrating positions of inferiority or servitude without respect towards the cultures or people depicted.
+Many William Hogarth artworks contain an oppressive iconographical system of images depicting people of color. 
+Some Hogarth works, such as _A Turkish Bath_ (link to our website), fit the description of “Orientalism,” 
+constructed by postcolonial critics and Art History scholars. Other Hogarth works, such as _Plate 2 (Quarrels with Her Jew Collector)_, 
+_The Toilette / The Duchess’ Morning Levee_, and _Marriage A-La-Mode ‘The Toilette’_depict individuals of African descent 
+as servants or enslaved individuals within British society. In these images, Hogarth depicts people of Middle Eastern and 
+African descent in denigrating positions of inferiority or servitude without respect towards the cultures or people depicted.
 
-In this section we provide important critical context to help visitors understand the historical oppressive and colonial context to Hogarth’s work and British art of his era. These sources and quotes are by no means an exhaustive exploration of the literature on the colonial imagery of Hogarth and his era. We offer these perspectives to contextualize our collection, present a glimpse into the conversation surrounding Hogarth and representation, and to provide visitors with a path to further critical exploration of Art History. Inspired by Dr Roopika Risam’s proposals in her text _New Digital Worlds_, we aim to resist uncritically reinscribing incorrect, offensive, and colonial ways of seeing and presenting the culture of others. 
+In this section we provide important critical context to help visitors understand the historical oppressive and colonial 
+context to Hogarth’s work and British art of his era. These sources and quotes are by no means an exhaustive exploration 
+of the literature on the colonial imagery of Hogarth and his era. We offer these perspectives to contextualize our collection, 
+present a glimpse into the conversation surrounding Hogarth and representation, and to provide visitors with a path to further 
+critical exploration of Art History. Inspired by Dr Roopika Risam’s proposals in her text _New Digital Worlds_, we aim to resist 
+uncritically reinscribing incorrect, offensive, and colonial ways of seeing and presenting the culture of others.
 
 
-
-<span style="font-size:.7em">Risam, Roopika. _New Digital Worlds : Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy_. Evanston, Illinois: Northwestern University Press, 2019. Print., p. 4.</span>
+<span> style="font-size:.7em">Risam, Roopika. _New Digital Worlds : Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy_. Evanston, Illinois: Northwestern University Press, 2019. Print., p. 4.</span>
 
 <p>
+<br>
 <br>
 </p>
 
 ### Critical Perspectives  
-
 
 
 #### Edward Said - _Orientalism_ 
