@@ -31,11 +31,23 @@ uncritically reinscribing incorrect, offensive, and colonial ways of seeing and 
 <br>
 </p>
 
-<img class="fit-picture" src="/Users/owenmonroe/Desktop/DigiHogarth Code/digitalhogarth.github.io/pages/setup/Turkish_Bath.png" alt="" width="20" height="50" title="A Turkish Bath">
+<img class="fit-picture" src="/Users/owenmonroe/Desktop/DigiHogarth Code/digitalhogarth.github.io/pages/setup/Turkish_Bath.png" alt="" width="80" height="200" title="A Turkish Bath">
 
-<img class="fit-picture" src="/Users/owenmonroe/Desktop/DigiHogarth Code/digitalhogarth.github.io/pages/setup/Quarrel.png" alt="" width="20" height="50" title="Plate 2 (Quarrels with Her Jew Protector)">
+<p>
+<br>
+</p>
 
-<img class="fit-picture" src="/Users/owenmonroe/Desktop/DigiHogarth Code/digitalhogarth.github.io/pages/setup/Toilette.png" alt="" width="50" height="20" title="Plate 2 (Quarrels with Her Jew Protector">
+<img class="fit-picture" src="/Users/owenmonroe/Desktop/DigiHogarth Code/digitalhogarth.github.io/pages/setup/Quarrel.png" alt="" width="80" height="200" title="Plate 2 (Quarrels with Her Jew Protector)">
+
+<p>
+<br>
+</p>
+
+<img class="fit-picture" src="/Users/owenmonroe/Desktop/DigiHogarth Code/digitalhogarth.github.io/pages/setup/Toilette.png" alt="" width="200" height="80" title="The Toilette / The Duchess' Morning Levee">
+
+<p>
+<br>
+</p>
 
 ### **Critical Perspectives**  
 
