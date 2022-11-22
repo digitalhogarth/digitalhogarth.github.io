@@ -31,21 +31,24 @@ uncritically reinscribing incorrect, offensive, and colonial ways of seeing and 
 <br>
 </p>
 
-<img class="fit-picture" src="/Users/owenmonroe/Desktop/DigiHogarth Code/digitalhogarth.github.io/pages/setup/Turkish_Bath.png" alt="" width="350" height="500" title="A Turkish Bath">
+
 
 <p>
+<img class="fit-picture" src="objects/Turkish_Bath.png" alt="" width="100%" height="100%" title="A Turkish Bath">
 <br>
 </p>
 
-<img class="fit-picture" src="/Users/owenmonroe/Desktop/DigiHogarth Code/digitalhogarth.github.io/pages/setup/Quarrel.png" alt="" width="500" height="600" title="Plate 2 (Quarrels with Her Jew Protector)">
+
 
 <p>
+<img class="fit-picture" src="objects/Quarrel.png" alt="" width="100%" height="100%" title="Plate 2 (Quarrels with Her Jew Protector)">
 <br>
 </p>
 
-<img class="fit-picture" src="/Users/owenmonroe/Desktop/DigiHogarth Code/digitalhogarth.github.io/pages/setup/Toilette.png" alt="" width="675" height="600" title="The Toilette / The Duchess' Morning Levee">
+
 
 <p>
+<img class="fit-picture" src="objects/Toilette.jpeg" width="100%" height="100%" title="The Toilette / The Duchess' Morning Levee">
 <br>
 </p>
 
