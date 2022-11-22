@@ -34,5 +34,5 @@ Sources for Data and Description:
 
 
 ### The Project Team
-This is a class project for IS-578: Introduction to Digital Humanities at the University of Illinois Urbana-Champaign School of Information Sciences taught by Professor Zoë LeBlanc in Fall 2022. This digital project was created by April, Dan, Daniel, Daniela, and Owen for an audience of scholars or interested individuals to view and explore a repository of Hogarth artwork images. We want to express our gratitude to our instructor, course guest speakers, and classmates for providing guidance, inspiration, critical perspectives, and invaluable feedback to this project in its development, theory, and practical construction. 
+This is a class project for IS-578: Introduction to Digital Humanities at the University of Illinois Urbana-Champaign School of Information Sciences taught by Professor Zoe LeBlanc in Fall 2022. This digital project was created by April, Dan, Daniel, Daniela, and Owen for an audience of scholars or interested individuals to view and explore a repository of Hogarth artwork images. We want to express our gratitude to our instructor, course guest speakers, and classmates for providing guidance, inspiration, critical perspectives, and invaluable feedback to this project in its development, theory, and practical construction. 
 
