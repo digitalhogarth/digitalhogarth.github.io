@@ -19,6 +19,15 @@
 
 .btn {
     background-color: #07789b !important;
+    color: white !important;
+    border: 0.5px solid #212529;
+}
+
+.btn:hover {
+    background-color: white !important;
+    color: #07789b !important;
+    border: 0.5px solid #212529;
+
 }
 
 .btn-outline-secondary {
