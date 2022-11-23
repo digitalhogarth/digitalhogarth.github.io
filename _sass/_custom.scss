@@ -35,9 +35,15 @@
 }
 
 .bi {
-    color: white
-}
+    background-color: #07789b !important;
+    color: white !important;
+    border: 0.5px solid #07789b;}
 
-// .div.container {
+.bi:hover {
+    background-color: white !important;
+    color: #07789b !important;
+    border: 0.5px solid #07789b;}
+
+// .container {
 //     background-color: #812121;
 // }
