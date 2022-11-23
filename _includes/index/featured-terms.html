@@ -46,7 +46,7 @@
         {% endif %}
         // split multivalued fields and clean up extra white space
         const re = /\s*;+\s*/;
-        var clean_terms = raw_terms.join(";").toLowerCase().split(re);
+        var clean_terms = raw_terms.join(";").split(re);
         // find unique terms
         var unique_terms = clean_terms.filter(function(value, index, self) { return self.indexOf(value) === index; });
         // count unique values 
