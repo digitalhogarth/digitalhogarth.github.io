@@ -140,7 +140,7 @@ their blackness, we miss important metaphoric connections and differences.” </
 
 #### The Yale Center for British Art
 
-[The Yale Center for British Art’s exhibition Slavery and Portraiture in 18th Century Atlantic Britain](https://interactive.britishart.yale.edu/slavery-and-portraiture/objects) provides valuable contextualization of some of Hogarth’s work within the larger art production of the 18th Century Britain. This collection includes scholarly perspectives that examine the influence of colonial empire and slavery on the artworks selected, while including objects of challenge and resistance to these oppressive social systems.
+[The Yale Center for British Art’s exhibition Slavery and Portraiture in 18th Century Atlantic Britain](https://interactive.britishart.yale.edu/slavery-and-portraiture/objects) provides valuable contextualization of some of Hogarth’s work within the larger art production of 18th Century Britain. This collection includes scholarly perspectives that examine the influence of colonial empire and slavery on the artworks selected, while including objects of challenge and resistance to these oppressive social systems.
 
 <span style="font-size:.7em">“Slavery and Portraiture in 18th-Century Atlantic Britain.” Yale Center For British Art, <https://interactive.britishart.yale.edu/slavery-and-portraiture/objects>.</span>
 
@@ -150,7 +150,7 @@ their blackness, we miss important metaphoric connections and differences.” </
 
 #### _Stanford Encyclopedia of Philosophy: Colonialism_ – Section 5: "Post-Colonial Theory"
 
-<blockquote>  "The term orientalism described a structured set of concepts, assumptions, and discursive practices that were used to produce, interpret, and evaluate knowledge about non-European peoples. Said’s analysis made it possible for scholars to deconstruct literary and historical texts in order to understand how they reflected and reinforced the imperialist project…
+<blockquote>  ”The term orientalism described a structured set of concepts, assumptions, and discursive practices that were used to produce, interpret, and evaluate knowledge about non-European peoples. Said’s analysis made it possible for scholars to deconstruct literary and historical texts in order to understand how they reflected and reinforced the imperialist project…
 Said emphasizes that it is also a mode of exercising authority by organizing and classifying knowledge about the Orient. 
 This discursive approach is distinct both from the materialist view that knowledge is simply a reflection of economic or political interests and from the idealist view that scholarship is disinterested and neutral. Following Foucault, 
 Said describes discourse as a form of knowledge that is not used instrumentally in service of power but rather is itself a form of power.” </blockquote> 
