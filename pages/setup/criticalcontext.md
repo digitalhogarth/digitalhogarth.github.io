@@ -67,7 +67,7 @@ of the Other. In addition, the Orient has helped to define Europe (or the West) 
 personality, experience. Yet none of this Orient is merely imaginative. The Orient is an integral part of European material 
 civilization and culture. Orientalism expresses and represents that part culturally and even ideologically 
 as a mode of discourse with supporting institutions, vocabulary, scholarship, imagery, doctrines, even colonial 
-bureaucracies and colonial styles.“ </blockquote>
+bureaucracies and colonial styles.” </blockquote>
 
 
 
@@ -79,9 +79,13 @@ bureaucracies and colonial styles.“ </blockquote>
 
 #### Linda Nochlin - “The Imaginary Orient”
 
+<blockquote> “...[T]he key notion of Orientalism itself cannot be confronted without a critical analysis of the power structures in which these works came into being. 
+For instance, the degree of realism (or lack of it) in individual Orientalist images can hardly be discussed without 
+some attempt to clarify whose reality we are talking about.” </blockquote>
+
 <blockquote>  “The white man, the Westerner, is of course always implicitly present in Orientalist paintings like the Snake Charmer; 
 his is necessarily the controlling gaze, the gaze which brings the Oriental world into being, the gaze for which it is 
-ultimately intended.“ </blockquote>
+ultimately intended.” </blockquote>
 
 <span style="font-size:.7em"> Nochlin, Linda “The Imaginary Orient.” _Art In America_, May 1983. pp.119-131, 186-19. <https://aestheticapperceptions.files.wordpress.com/2013/01/nochlin_imaginary_orient.pdf>.</span>  
 

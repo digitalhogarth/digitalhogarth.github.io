@@ -19,18 +19,11 @@ Digital Hogarth uses the [CollectionBuilder static site](https://collectionbuild
 
 ### Subjects
 The project team decided to use the categories of portrait; ticket; shopcard; book illustration; bookplate; frontispiece; sign; satire; historical, religious or literary work; conversation piece; and a work on moral instruction as categories for our subjects page and in our image data. These categories present valuable information about the function, forms, and themes of Hogarth’s work, helping our users explore the variety within our collection.  
-[Data friends add more? Why these categories] 
+ 
 
 
 ### Data
-For this project, we compiled a list of every known work of William Hogarth using the [Wikipedia List of Hogarth’s Work](https://en.wikipedia.org/wiki/List_of_works_by_William_Hogarth) page. Using sources such as Metropolitan Museum of Art, WikiMedia, Royal Academy of Arts, and others, we created a spreadsheet that listed the works along with the source we used for the images displayed in our collection. The project team then categorized each work into a set of classifications based on the type of artwork:  portrait; ticket; book illustration; shop card; book plate; frontispiece; ornament, sign, letterhead, seal; satire; historical, religious, literary; conversation piece; and moral instruction. Using these classifications, we narrowed down the number of works to display in our collection proportionally. The image source data from the original spreadsheet was then transferred to a spreadsheet connected to the CollectionBuilder site where the additional metadata was added to each image. 
-
-[Data friends add more? Developing more text and sources for descriptions on our own? Will discuss!]
-
-### Image Data Sources Citations
-Sources for images…: 
-Sources for Data and Description:
-[Or maybe we apply this as a new column for each work in our data page / throughout the website]
+For this project, we compiled a list of every known work of William Hogarth using the [Wikipedia List of Hogarth’s Work](https://en.wikipedia.org/wiki/List_of_works_by_William_Hogarth) page. Using sources such as Metropolitan Museum of Art, WikiMedia, Royal Academy of Arts, and others, we created a spreadsheet that listed the works along with the source we used for the images displayed in our collection. The project team then categorized each work into a set of classifications based on the type of artwork:  portrait; ticket; book illustration; shop card; book plate; frontispiece; ornament, sign, letterhead, seal; satire; historical, religious, literary; conversation piece; and moral instruction. Using these classifications, we narrowed down the number of works to display in our collection proportionally. The image source data from the original spreadsheet was then transferred to a spreadsheet connected to the CollectionBuilder site where the additional metadata was added to each image.  
 
 
 ### The Project Team
