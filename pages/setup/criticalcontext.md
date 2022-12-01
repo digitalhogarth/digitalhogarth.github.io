@@ -130,11 +130,11 @@ convention, as David Dabydeen would see it, Africans are an important part of hi
 servant enhance and complicate the satire…. These texts provide indices by which we can gauge the formation of racial 
 thinking during the English emancipation of African slaves and the growth of empire.” </blockquote> 
 
-<blockquote>  “[I]n Plate 4 of Hogarth’s Marriage A-La-Mode, ‘The Toilette’, commentators often draw parallels between the two black 
-servants attending the lady’s levée (link to image). They apply conventions about Africans and slaves to both figures 
+“[I]n  [Plate 4 of _Hogarth’s Marriage A-La-Mode, ‘The Toilette’,_](https://digitalhogarth.github.io/item.html?id=coll025) commentators often draw parallels between the two black 
+servants attending the lady’s levée. They apply conventions about Africans and slaves to both figures 
 without distinguishing between them or contextualizing the younger page within Eastern conventions. If we assume that 
 both figures may be interpreted solely through the Black Atlantic triangle, rather than incorporating ‘the East’ within 
-their blackness, we miss important metaphoric connections and differences.” </blockquote> 
+their blackness, we miss important metaphoric connections and differences.”
 
 <span style="font-size:.7em">Nussbaum, Felicity A., 'Between ‘Oriental’ and ‘Blacks So Called’, 1688–1788', in Daniel Carey, and Lynn Festa (eds), _The Postcolonial Enlightenment: Eighteenth-Century Colonialism and Postcolonial Theory_ (Oxford, 2013; online edn, Oxford Academic, 3 Mar. 2015), [https://doi.org/10.1093/acprof:osobl/9780199677597.003.0005](https://doi.org/10.1093/acprof:osobl/9780199677597.003.0005), accessed 10 Nov. 2022.</span>
   
