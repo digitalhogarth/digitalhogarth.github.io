@@ -81,7 +81,7 @@ bureaucracies and colonial styles.” </blockquote>
 
 <blockquote> “...[T]he key notion of Orientalism itself cannot be confronted without a critical analysis of the power structures in which these works came into being. 
 For instance, the degree of realism (or lack of it) in individual Orientalist images can hardly be discussed without 
-some attempt to clarify whose reality we are talking about.” </blockquote>
+some attempt to clarify _whose_ reality we are talking about.” </blockquote>
 
 <blockquote>  “The white man, the Westerner, is of course always implicitly present in Orientalist paintings like the Snake Charmer; 
 his is necessarily the controlling gaze, the gaze which brings the Oriental world into being, the gaze for which it is 
