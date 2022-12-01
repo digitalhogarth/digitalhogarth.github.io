@@ -130,7 +130,7 @@ convention, as David Dabydeen would see it, Africans are an important part of hi
 servant enhance and complicate the satire…. These texts provide indices by which we can gauge the formation of racial 
 thinking during the English emancipation of African slaves and the growth of empire.” </blockquote> 
 
-“[I]n  [Plate 4 of _Hogarth’s Marriage A-La-Mode, ‘The Toilette’,_](https://digitalhogarth.github.io/item.html?id=coll025) commentators often draw parallels between the two black 
+“[I]n [Plate 4 of _Hogarth’s Marriage A-La-Mode, ‘The Toilette’_](https://digitalhogarth.github.io/item.html?id=coll025) commentators often draw parallels between the two black 
 servants attending the lady’s levée. They apply conventions about Africans and slaves to both figures 
 without distinguishing between them or contextualizing the younger page within Eastern conventions. If we assume that 
 both figures may be interpreted solely through the Black Atlantic triangle, rather than incorporating ‘the East’ within 
