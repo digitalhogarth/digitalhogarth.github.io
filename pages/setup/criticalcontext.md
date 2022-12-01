@@ -144,7 +144,7 @@ their blackness, we miss important metaphoric connections and differences.” </
 
 #### The Yale Center for British Art
 
-[The Yale Center for British Art’s exhibition Slavery and Portraiture in 18th Century Atlantic Britain](https://interactive.britishart.yale.edu/slavery-and-portraiture/objects) provides valuable contextualization of some of Hogarth’s work within the larger art production of 18th Century Britain. This collection includes scholarly perspectives that examine the influence of colonial empire and slavery on the artworks selected, while including objects of challenge and resistance to these oppressive social systems.
+[The Yale Center for British Art’s exhibition Slavery and Portraiture in 18th-Century Atlantic Britain](https://interactive.britishart.yale.edu/slavery-and-portraiture/objects) provides valuable contextualization of some of Hogarth’s work within the larger art production of 18th Century Britain. This collection includes scholarly perspectives that examine the influence of colonial empire and slavery on the artworks selected, while including objects of challenge and resistance to these oppressive social systems.
 
 <span style="font-size:.7em">“Slavery and Portraiture in 18th-Century Atlantic Britain.” Yale Center For British Art, <https://interactive.britishart.yale.edu/slavery-and-portraiture/objects>.</span>
 
