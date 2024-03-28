@@ -37,7 +37,7 @@ author: Digital Hogarth
 # e.g. relative path "/assets/demo-metadata.csv"
 # e.g. published google sheet "https://docs.google.com/spreadsheets/d/e/2PACX-1vSn7AA-cbsXT3_nNUGftc1ab-CKXOJHMQCIENeR9NHElbyI9_qA99o0-HNZdG04v-M2_N21bUe_krQQ/pub?gid=0&single=true&output=csv"
 # e.g. on GitHub use the raw link "https://raw.githubusercontent.com/CollectionBuilder/collectionbuilder-sample-data/master/psychiana_cbdemo_gh.csv"
-metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vSbHiUuDVCZHpp8jltPo-uqlSvjt_W3usxbarKSP-qALDiNwcxNp8t1xVZ56aNajqUckIS-Fpl-ujZ6/pub?gid=0&single=true&output=csv
+metadata-csv: https://docs.google.com/spreadsheets/d/18Uo5KlbvyQOlqg7pkWVbkzei-QA8_PnSBAm8Wvc_jjQ/edit#gid=1735359440&single=true&output=csv
 
 ##########
 # Site/Organization Branding 
